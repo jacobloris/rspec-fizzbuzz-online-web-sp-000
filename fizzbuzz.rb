@@ -11,7 +11,7 @@ elsif int % 5 == 0
 "Buzz"
 
 else 
-  nil 
+  return 
   
 end
 end
